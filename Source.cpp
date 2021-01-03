@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>                     
-#include <fstream>                    //to do catch exceptions
+#include <fstream>                    
 
 using namespace std;
 
